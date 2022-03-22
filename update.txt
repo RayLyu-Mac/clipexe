@@ -1,2 +1,0 @@
-cd C:/Users/super/flutter_course/documentation/doc/clipexe
-git pull https://github.com/RayLyu-Mac/clipexe.git
